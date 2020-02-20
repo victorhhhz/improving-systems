@@ -1,4 +1,4 @@
-<style type="text/css">.header-lp{
+    .header-lp{
         background:gray;
         position:fixed;
         z-index:100;
@@ -11,4 +11,3 @@
         left: 50%;
         padding:10%;
     }
-</style>
